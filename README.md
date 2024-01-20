@@ -14,13 +14,21 @@ The .ipynb files are the jupyter notebooks used to clean, transform, model and p
 Because the initial dataset is too large, I will not inlcude it in this repository. If you wish to download it you can find it 
 in the following kaggle page (competition link: https://www.kaggle.com/competitions/maas-demand-in-madrid/)
 
+Despite the .ipynb files being long, the models end up being quite simple and using few features. The objective of these files is to show
+the feature engineering behind the tests performed before the final version of these models in addition to the final result. 
+
 
 ## Modules and models
 -pandas
--numpy
--haversine
--astral
--sklearn
--matplotlib
--seaborn
 
+-numpy
+
+-haversine
+
+-astral
+
+-sklearn
+
+-matplotlib
+
+-seaborn
